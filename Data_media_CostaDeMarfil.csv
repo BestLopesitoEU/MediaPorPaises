@@ -1,0 +1,793 @@
+Climate_ID,Indicator_ID,Ncdf_var,Mean
+9,125,No hay datos
+9,155,climatology_cdsrperiodmean_period,2.3975973
+9,120,climatology_cfwi30_annual_mean,29.308956
+9,59,climatology_cfwi30dp_period,0.08024355
+9,121,climatology_cfwi45_annual_mean,8.685399
+9,34,climatology_cfwi45dp_period,0.023779325
+9,122,climatology_cfwi60_annual_mean,1.5041423
+9,60,climatology_cfwi60dp_period,0.0041181175
+9,58,No hay datos
+9,56,No hay datos
+9,57,No hay datos
+9,123,No hay datos
+9,117,climatology_cfwiperiodmax_period,50.600445
+9,25,climatology_cfwiperiodmean_period,6.67072
+9,124,No hay datos
+9,119,climatology_cisiperiodmax_period,17.098192
+9,118,climatology_cisiperiodmean_period,2.1007369
+9,28,climatology_coastalfloodingabovefreeboardhours060_period,0.0
+9,102,climatology_coldwavedays10pbcdp_period,0.05913623
+9,104,climatology_coldwavedays1pbcdp_period,0.0037981782
+9,103,climatology_coldwavedays5pbcdp_period,0.027339421
+9,135,climatology_fd_annual_mean,0.0
+9,50,climatology_hd40_annual_mean,0.19397637
+9,26,climatology_heatwavedays90pbcdp_period,0.060547903
+9,100,climatology_heatwavedays95pbcdp_period,0.024526212
+9,101,climatology_heatwavedays99pbcdp_period,0.0031990756
+9,148,climatology_oceacacia_period,0.42307693
+9,147,climatology_oceeucalyptuscamaldulensis_period,1.0
+9,145,climatology_oceeucalyptusglobulus_period,0.0
+9,146,climatology_oceeucalyptusgrandis_period,0.0
+9,150,climatology_ocepiceaabies_period,0.0
+9,151,climatology_ocepiceasitchensis_period,0.0
+9,142,climatology_ocepinuscaribaea_period,1.0
+9,143,climatology_ocepinuskesiya_period,0.0
+9,144,climatology_ocepinusmerkusii_period,1.0
+9,141,climatology_ocepinusoocarpa_period,0.0
+9,140,climatology_ocepinuspatula_period,0.0
+9,139,climatology_ocepinusradiata_period,0.0
+9,138,climatology_ocepinustaeda_period,0.0
+9,149,climatology_ocetectonagrandis_period,0.88461536
+9,129,No hay datos
+9,22,No hay datos
+9,130,No hay datos
+9,23,No hay datos
+9,35,climatology_pr_annual_mean_of_annual_sums,1454.6389
+9,88,climatology_r100mm_annual_mean,0.008208373
+9,89,climatology_r150mm_annual_mean,0.0
+9,90,climatology_r200mm_annual_mean,0.0
+9,27,climatology_r20mm_annual_mean,6.914321
+9,91,climatology_r300mm_annual_mean,0.0
+9,87,climatology_r50mm_annual_mean,0.49791032
+9,16,climatology_relativesealevelrise_period,0.0
+9,132,No hay datos
+9,133,No hay datos
+9,131,No hay datos
+9,113,climatology_rx1day100mmaep_period,0.09111707
+9,114,climatology_rx1day150mmaep_period,0.06010486
+9,115,climatology_rx1day200mmaep_period,0.059447035
+9,116,climatology_rx1day300mmaep_period,nan
+9,112,climatology_rx1day50mmaep_period,0.4552784
+9,86,No hay datos
+9,83,No hay datos
+9,84,No hay datos
+9,85,No hay datos
+9,39,climatology_rx1dayreturnlevel100_period,120.172134
+9,48,climatology_rx1dayreturnlevel10_period,79.983154
+9,49,climatology_rx1dayreturnlevel20_period,92.49079
+9,4,climatology_rx1dayreturnlevel25_period,96.3728
+9,38,climatology_rx1dayreturnlevel50_period,108.319984
+9,78,No hay datos
+9,75,No hay datos
+9,76,No hay datos
+9,77,No hay datos
+9,82,No hay datos
+9,79,No hay datos
+9,80,No hay datos
+9,81,No hay datos
+9,72,climatology_spei12_annual_mean,-0.0034626783
+9,63,climatology_spei12extremedroughtbcap_period,0.0
+9,64,climatology_spei12moderatedroughtbcap_period,0.44615385
+9,65,climatology_spei12severedroughtbcap_period,0.053846158
+9,73,climatology_spei24_annual_mean,0.0055879927
+9,68,climatology_spei24extremedroughtbcap_period,0.0
+9,66,climatology_spei24moderatedroughtbcap_period,0.34615386
+9,67,climatology_spei24severedroughtbcap_period,0.02948718
+9,74,climatology_spei36_annual_mean,0.009396335
+9,71,climatology_spei36extremedroughtbcap_period,0.0
+9,69,climatology_spei36moderatedroughtbcap_period,0.3025641
+9,70,climatology_spei36severedroughtbcap_period,0.015384616
+9,6,climatology_spei6_annual_mean,-0.00046882653
+9,62,climatology_spei6extremedroughtbcap_period,0.0
+9,61,climatology_spei6moderatedroughtbcap_period,0.5974359
+9,31,climatology_spei6severedroughtbcap_period,0.07692308
+9,2,No hay datos
+9,126,No hay datos
+9,128,No hay datos
+9,127,No hay datos
+9,32,climatology_tas_annual_mean_of_annual_means,25.624525
+9,134,climatology_taswarmestmonthmean_period,28.72478
+9,14,climatology_tc113hitap,0.0
+9,15,climatology_tc137hitap,0.0
+9,51,climatology_tc34hitap_hist_1986-2014_period,0.0
+9,52,climatology_tc50hitap_hist_1986-2014_period,0.0
+9,11,climatology_tc64hitap,0.0
+9,12,climatology_tc83hitap,0.0
+9,13,climatology_tc96hitap,0.0
+9,30,climatology_tcwind3sec79ktaep_period,0.0
+9,99,climatology_tidalrange_period,nan
+9,136,climatology_tnn_annual_mean,14.028722
+9,137,climatology_tnn_annual_min,11.805737
+9,53,climatology_totalwaterlevel_period,-1.7613547e-05
+9,98,climatology_totalwaterlevelreturnlevel100deltarel_period,1.4325447
+9,95,climatology_totalwaterlevelreturnlevel10deltarel_period,1.3681545
+9,96,climatology_totalwaterlevelreturnlevel20deltarel_period,1.3914051
+9,97,climatology_totalwaterlevelreturnlevel50deltarel_period,1.4166254
+9,3,climatology_txx_annual_max,39.02475
+9,154,climatology_txx_annual_mean,37.166283
+9,153,No hay datos
+9,29,climatology_waterstress,0.016969057
+9,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+9,10,climatology_windspeed20mps_annual_mean,0.0
+9,92,No hay datos
+9,94,No hay datos
+9,93,No hay datos
+9,33,climatology_windspeed_annual_mean_of_annual_means,1.8668101
+9,110,climatology_winterypreciprx1day12mm_annual_mean,0.0
+9,111,climatology_winterypreciprx1day25mm_annual_mean,0.0
+9,109,climatology_winterypreciprx1day3mm_annual_mean,0.0
+9,108,No hay datos
+9,105,No hay datos
+9,106,No hay datos
+9,107,No hay datos
+10,125,climatology_cdsraavganndeltarel_period,32.50732
+10,155,climatology_cdsrperiodmean_period,2.5779843
+10,120,climatology_cfwi30_annual_mean,30.771366
+10,59,climatology_cfwi30dp_period,0.0842474
+10,121,climatology_cfwi45_annual_mean,9.255981
+10,34,climatology_cfwi45dp_period,0.025341492
+10,122,climatology_cfwi60_annual_mean,1.9218485
+10,60,climatology_cfwi60dp_period,0.0052617346
+10,58,climatology_cfwi90pbcdp_period,0.110258505
+10,56,climatology_cfwi95pbcdp_period,0.058505196
+10,57,climatology_cfwi99pbcdp_period,0.012639802
+10,123,climatology_cfwimavgmdeltarel_period,25.28793
+10,117,climatology_cfwiperiodmax_period,51.876106
+10,25,climatology_cfwiperiodmean_period,7.0447574
+10,124,climatology_cisimavgmdeltarel_period,26.579464
+10,119,climatology_cisiperiodmax_period,17.89927
+10,118,climatology_cisiperiodmean_period,2.2952623
+10,28,climatology_coastalfloodingabovefreeboardhours060_period,0.103191815
+10,102,climatology_coldwavedays10pbcdp_period,0.023974296
+10,104,climatology_coldwavedays1pbcdp_period,0.0007231788
+10,103,climatology_coldwavedays5pbcdp_period,0.008805036
+10,135,climatology_fd_annual_mean,0.0
+10,50,climatology_hd40_annual_mean,1.1192689
+10,26,climatology_heatwavedays90pbcdp_period,0.14707734
+10,100,climatology_heatwavedays95pbcdp_period,0.08282203
+10,101,climatology_heatwavedays99pbcdp_period,0.022098385
+10,148,climatology_oceacacia_period,0.3846154
+10,147,climatology_oceeucalyptuscamaldulensis_period,0.9230769
+10,145,climatology_oceeucalyptusglobulus_period,0.0
+10,146,climatology_oceeucalyptusgrandis_period,0.0
+10,150,climatology_ocepiceaabies_period,0.0
+10,151,climatology_ocepiceasitchensis_period,0.0
+10,142,climatology_ocepinuscaribaea_period,0.6923077
+10,143,climatology_ocepinuskesiya_period,0.0
+10,144,climatology_ocepinusmerkusii_period,1.0
+10,141,climatology_ocepinusoocarpa_period,0.0
+10,140,climatology_ocepinuspatula_period,0.0
+10,139,climatology_ocepinusradiata_period,0.0
+10,138,climatology_ocepinustaeda_period,0.0
+10,149,climatology_ocetectonagrandis_period,0.96153843
+10,129,climatology_praavganndelta_period,5.171706
+10,22,climatology_praavganndeltarel_period,4.5833336e+19
+10,130,climatology_praavgannplus1sd_period,0.0
+10,23,climatology_praavgannplus50mm_period,4.5833336e+19
+10,35,climatology_pr_annual_mean_of_annual_sums,1475.8834
+10,88,climatology_r100mm_annual_mean,0.026221318
+10,89,climatology_r150mm_annual_mean,0.0
+10,90,climatology_r200mm_annual_mean,0.0
+10,27,climatology_r20mm_annual_mean,7.957664
+10,91,climatology_r300mm_annual_mean,0.0
+10,87,climatology_r50mm_annual_mean,0.6056031
+10,16,climatology_relativesealevelrise_period,9.572193e+19
+10,132,climatology_rhsaavganndelta_period,-0.4180468
+10,133,climatology_rhsaavganndeltarel_period,-20.548708
+10,131,climatology_rhs_annual_mean_of_annual_means,71.75561
+10,113,climatology_rx1day100mmaep_period,0.0883851
+10,114,climatology_rx1day150mmaep_period,0.047224108
+10,115,climatology_rx1day200mmaep_period,0.056526612
+10,116,climatology_rx1day300mmaep_period,nan
+10,112,climatology_rx1day50mmaep_period,0.4861059
+10,86,climatology_rx1dayfaep100_period,0.014080157
+10,83,climatology_rx1dayfaep10_period,0.123170465
+10,84,climatology_rx1dayfaep20_period,0.06410234
+10,85,climatology_rx1dayfaep50_period,0.027067762
+10,39,climatology_rx1dayreturnlevel100_period,124.05821
+10,48,climatology_rx1dayreturnlevel10_period,81.06475
+10,49,climatology_rx1dayreturnlevel20_period,94.43962
+10,4,climatology_rx1dayreturnlevel25_period,98.47755
+10,38,climatology_rx1dayreturnlevel50_period,110.817856
+10,78,climatology_rx5dayfaep100_period,0.013776997
+10,75,climatology_rx5dayfaep10_period,0.12106028
+10,76,climatology_rx5dayfaep20_period,0.06324776
+10,77,climatology_rx5dayfaep50_period,0.02659877
+10,82,climatology_rxmonthfaep100_period,0.011074304
+10,79,climatology_rxmonthfaep10_period,0.10430752
+10,80,climatology_rxmonthfaep20_period,0.052946705
+10,81,climatology_rxmonthfaep50_period,0.021634
+10,72,climatology_spei12_annual_mean,-0.026445456
+10,63,climatology_spei12extremedroughtbcap_period,0.0
+10,64,climatology_spei12moderatedroughtbcap_period,0.4576923
+10,65,climatology_spei12severedroughtbcap_period,0.092307694
+10,73,climatology_spei24_annual_mean,-0.030081652
+10,68,climatology_spei24extremedroughtbcap_period,0.0
+10,66,climatology_spei24moderatedroughtbcap_period,0.35256413
+10,67,climatology_spei24severedroughtbcap_period,0.05769231
+10,74,climatology_spei36_annual_mean,-0.0143344905
+10,71,climatology_spei36extremedroughtbcap_period,0.0
+10,69,climatology_spei36moderatedroughtbcap_period,0.2974359
+10,70,climatology_spei36severedroughtbcap_period,0.0448718
+10,6,climatology_spei6_annual_mean,-0.03544978
+10,62,climatology_spei6extremedroughtbcap_period,0.007692308
+10,61,climatology_spei6moderatedroughtbcap_period,0.6474359
+10,31,climatology_spei6severedroughtbcap_period,0.16666667
+10,2,climatology_tasaavganndelta_period,4.5833336e+19
+10,126,climatology_tasaavganndeltarel_period,189.85487
+10,128,climatology_tasaavgannplus1sd_period,1.0
+10,127,climatology_tasaavgannplus2deg_period,0.0
+10,32,climatology_tas_annual_mean_of_annual_means,26.478197
+10,134,climatology_taswarmestmonthmean_period,29.57545
+10,14,climatology_tc113hitap,0.0
+10,15,climatology_tc137hitap,0.0
+10,51,climatology_tc34hitap_rcp85_2010-2039_period,0.0
+10,52,climatology_tc50hitap_rcp85_2010-2039_period,0.0
+10,11,climatology_tc64hitap,0.0
+10,12,climatology_tc83hitap,0.0
+10,13,climatology_tc96hitap,0.0
+10,30,climatology_tcwind3sec79ktaep_period,0.0
+10,99,climatology_tidalrange_period,1.3690674
+10,136,climatology_tnn_annual_mean,14.814741
+10,137,climatology_tnn_annual_min,12.454084
+10,53,climatology_totalwaterlevel_period,0.12291981
+10,98,climatology_totalwaterlevelreturnlevel100deltarel_period,1.7335975
+10,95,climatology_totalwaterlevelreturnlevel10deltarel_period,1.6692071
+10,96,climatology_totalwaterlevelreturnlevel20deltarel_period,1.6924577
+10,97,climatology_totalwaterlevelreturnlevel50deltarel_period,1.7176781
+10,3,climatology_txx_annual_max,39.848415
+10,154,climatology_txx_annual_mean,37.997646
+10,153,climatology_waterscarcity_period,0.0
+10,29,climatology_waterstress,0.02762741
+10,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+10,10,climatology_windspeed20mps_annual_mean,0.0
+10,92,climatology_windspeed95pbcdp_period,0.063346826
+10,94,climatology_windspeed999pbcdp_period,0.001387644
+10,93,climatology_windspeed99pbcdp_period,0.013650185
+10,33,climatology_windspeed_annual_mean_of_annual_means,1.9348233
+10,110,climatology_winterypreciprx1day12mm_annual_mean,0.0
+10,111,climatology_winterypreciprx1day25mm_annual_mean,0.0
+10,109,climatology_winterypreciprx1day3mm_annual_mean,0.0
+10,108,climatology_winterypreciprx1dayfaep100_period,nan
+10,105,climatology_winterypreciprx1dayfaep10_period,nan
+10,106,climatology_winterypreciprx1dayfaep20_period,nan
+10,107,climatology_winterypreciprx1dayfaep50_period,nan
+11,125,climatology_cdsraavganndeltarel_period,34.63406
+11,155,climatology_cdsrperiodmean_period,2.6818137
+11,120,climatology_cfwi30_annual_mean,31.474304
+11,59,climatology_cfwi30dp_period,0.08617194
+11,121,climatology_cfwi45_annual_mean,9.682387
+11,34,climatology_cfwi45dp_period,0.026508931
+11,122,climatology_cfwi60_annual_mean,2.2012343
+11,60,climatology_cfwi60dp_period,0.006026652
+11,58,climatology_cfwi90pbcdp_period,0.11471334
+11,56,climatology_cfwi95pbcdp_period,0.062241774
+11,57,climatology_cfwi99pbcdp_period,0.0140383355
+11,123,climatology_cfwimavgmdeltarel_period,36.40002
+11,117,climatology_cfwiperiodmax_period,53.508358
+11,25,climatology_cfwiperiodmean_period,7.2491174
+11,124,climatology_cisimavgmdeltarel_period,37.773254
+11,119,climatology_cisiperiodmax_period,18.12864
+11,118,climatology_cisiperiodmean_period,2.355151
+11,28,climatology_coastalfloodingabovefreeboardhours060_period,0.14446855
+11,102,climatology_coldwavedays10pbcdp_period,0.013538008
+11,104,climatology_coldwavedays1pbcdp_period,0.000253128
+11,103,climatology_coldwavedays5pbcdp_period,0.0043498524
+11,135,climatology_fd_annual_mean,0.0
+11,50,climatology_hd40_annual_mean,2.5041628
+11,26,climatology_heatwavedays90pbcdp_period,0.1914517
+11,100,climatology_heatwavedays95pbcdp_period,0.11930187
+11,101,climatology_heatwavedays99pbcdp_period,0.039860733
+11,148,climatology_oceacacia_period,0.34615386
+11,147,climatology_oceeucalyptuscamaldulensis_period,0.84615386
+11,145,climatology_oceeucalyptusglobulus_period,0.0
+11,146,climatology_oceeucalyptusgrandis_period,0.0
+11,150,climatology_ocepiceaabies_period,0.0
+11,151,climatology_ocepiceasitchensis_period,0.0
+11,142,climatology_ocepinuscaribaea_period,0.3846154
+11,143,climatology_ocepinuskesiya_period,0.0
+11,144,climatology_ocepinusmerkusii_period,0.84615386
+11,141,climatology_ocepinusoocarpa_period,0.0
+11,140,climatology_ocepinuspatula_period,0.0
+11,139,climatology_ocepinusradiata_period,0.0
+11,138,climatology_ocepinustaeda_period,0.0
+11,149,climatology_ocetectonagrandis_period,0.96153843
+11,129,climatology_praavganndelta_period,2.3751771
+11,22,climatology_praavganndeltarel_period,2.1002698
+11,130,climatology_praavgannplus1sd_period,0.0
+11,23,climatology_praavgannplus50mm_period,0.0
+11,35,climatology_pr_annual_mean_of_annual_sums,1467.8853
+11,88,climatology_r100mm_annual_mean,0.028199278
+11,89,climatology_r150mm_annual_mean,0.0
+11,90,climatology_r200mm_annual_mean,0.0
+11,27,climatology_r20mm_annual_mean,7.8922834
+11,91,climatology_r300mm_annual_mean,0.0
+11,87,climatology_r50mm_annual_mean,0.6538487
+11,16,climatology_relativesealevelrise_period,0.17354059
+11,132,climatology_rhsaavganndelta_period,-0.59003127
+11,133,climatology_rhsaavganndeltarel_period,-27.54587
+11,131,climatology_rhs_annual_mean_of_annual_means,71.39871
+11,113,climatology_rx1day100mmaep_period,0.09543529
+11,114,climatology_rx1day150mmaep_period,0.029936982
+11,115,climatology_rx1day200mmaep_period,0.044022873
+11,116,climatology_rx1day300mmaep_period,0.033826854
+11,112,climatology_rx1day50mmaep_period,0.5222708
+11,86,climatology_rx1dayfaep100_period,0.0154583305
+11,83,climatology_rx1dayfaep10_period,0.13090692
+11,84,climatology_rx1dayfaep20_period,0.06893811
+11,85,climatology_rx1dayfaep50_period,0.029363276
+11,39,climatology_rx1dayreturnlevel100_period,128.05331
+11,48,climatology_rx1dayreturnlevel10_period,81.880646
+11,49,climatology_rx1dayreturnlevel20_period,95.61132
+11,4,climatology_rx1dayreturnlevel25_period,99.90205
+11,38,climatology_rx1dayreturnlevel50_period,113.811
+11,78,climatology_rx5dayfaep100_period,0.014924897
+11,75,climatology_rx5dayfaep10_period,0.12517056
+11,76,climatology_rx5dayfaep20_period,0.06598087
+11,77,climatology_rx5dayfaep50_period,0.028237117
+11,82,climatology_rxmonthfaep100_period,0.012153534
+11,79,climatology_rxmonthfaep10_period,0.109380804
+11,80,climatology_rxmonthfaep20_period,0.055862956
+11,81,climatology_rxmonthfaep50_period,0.023310278
+11,72,climatology_spei12_annual_mean,-0.09333396
+11,63,climatology_spei12extremedroughtbcap_period,0.0
+11,64,climatology_spei12moderatedroughtbcap_period,0.48333332
+11,65,climatology_spei12severedroughtbcap_period,0.11153846
+11,73,climatology_spei24_annual_mean,-0.1309565
+11,68,climatology_spei24extremedroughtbcap_period,0.0
+11,66,climatology_spei24moderatedroughtbcap_period,0.39743587
+11,67,climatology_spei24severedroughtbcap_period,0.071794875
+11,74,climatology_spei36_annual_mean,-0.14089394
+11,71,climatology_spei36extremedroughtbcap_period,0.0
+11,69,climatology_spei36moderatedroughtbcap_period,0.34999996
+11,70,climatology_spei36severedroughtbcap_period,0.058974367
+11,6,climatology_spei6_annual_mean,-0.09392595
+11,62,climatology_spei6extremedroughtbcap_period,0.014102564
+11,61,climatology_spei6moderatedroughtbcap_period,0.68974364
+11,31,climatology_spei6severedroughtbcap_period,0.1923077
+11,2,climatology_tasaavganndelta_period,1.1262565
+11,126,climatology_tasaavganndeltarel_period,283.63928
+11,128,climatology_tasaavgannplus1sd_period,1.0
+11,127,climatology_tasaavgannplus2deg_period,0.0
+11,32,climatology_tas_annual_mean_of_annual_means,26.917685
+11,134,climatology_taswarmestmonthmean_period,30.048626
+11,14,climatology_tc113hitap_rcp85_2020-2049_period,0.0
+11,15,climatology_tc137hitap_rcp85_2020-2049_period,0.0
+11,51,climatology_tc34hitap_rcp85_2020-2049_period,0.0
+11,52,climatology_tc50hitap_rcp85_2020-2049_period,0.0
+11,11,climatology_tc64hitap_rcp85_2020-2049_period,0.0
+11,12,climatology_tc83hitap_rcp85_2020-2049_period,0.0
+11,13,climatology_tc96hitap_rcp85_2020-2049_period,0.0
+11,30,climatology_tcwind3sec79ktaep_period,0.0
+11,99,climatology_tidalrange_period,1.3690675
+11,136,climatology_tnn_annual_mean,15.35517
+11,137,climatology_tnn_annual_min,12.825433
+11,53,climatology_totalwaterlevel_period,0.19297624
+11,98,climatology_totalwaterlevelreturnlevel100_period,14.109493
+11,95,climatology_totalwaterlevelreturnlevel10_period,14.974302
+11,96,climatology_totalwaterlevelreturnlevel20_period,14.671919
+11,97,climatology_totalwaterlevelreturnlevel50_period,14.332517
+11,3,climatology_txx_annual_max,40.46664
+11,154,climatology_txx_annual_mean,38.439808
+11,153,climatology_waterscarcity_period,0.0
+11,29,climatology_waterstress,0.041520666
+11,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+11,10,climatology_windspeed20mps_annual_mean,0.0
+11,92,climatology_windspeed95pbcdp_period,0.066608414
+11,94,climatology_windspeed999pbcdp_period,0.0015352573
+11,93,climatology_windspeed99pbcdp_period,0.014549785
+11,33,climatology_windspeed_annual_mean_of_annual_means,2.1442428
+11,110,climatology_winterypreciprx1day12mm_annual_mean,0.0
+11,111,climatology_winterypreciprx1day25mm_annual_mean,0.0
+11,109,climatology_winterypreciprx1day3mm_annual_mean,0.0
+11,108,climatology_winterypreciprx1dayfaep100_period,nan
+11,105,climatology_winterypreciprx1dayfaep10_period,nan
+11,106,climatology_winterypreciprx1dayfaep20_period,nan
+11,107,climatology_winterypreciprx1dayfaep50_period,nan
+19,125,No hay datos
+19,155,climatology_cdsrperiodmean_period,2.9167557
+19,120,climatology_cfwi30_annual_mean,36.09667
+19,59,No hay datos
+19,121,climatology_cfwi45_annual_mean,19.300686
+19,34,No hay datos
+19,122,climatology_cfwi60_annual_mean,2.8106549
+19,60,No hay datos
+19,58,No hay datos
+19,56,No hay datos
+19,57,No hay datos
+19,123,No hay datos
+19,117,climatology_cfwiperiodmax_period,49.915154
+19,25,climatology_cfwiperiodmean_period,6.7585826
+19,124,No hay datos
+19,119,climatology_cisiperiodmax_period,16.926804
+19,118,climatology_cisiperiodmean_period,2.2806914
+19,28,No hay datos
+19,102,No hay datos
+19,104,No hay datos
+19,103,No hay datos
+19,135,climatology_fd_annual_mean,0.0
+19,50,climatology_hd40_annual_mean,8.609252
+19,26,No hay datos
+19,100,No hay datos
+19,101,No hay datos
+19,148,climatology_oceacacia_period,0.53846157
+19,147,climatology_oceeucalyptuscamaldulensis_period,0.7692308
+19,145,climatology_oceeucalyptusglobulus_period,0.0
+19,146,climatology_oceeucalyptusgrandis_period,0.0
+19,150,climatology_ocepiceaabies_period,0.0
+19,151,climatology_ocepiceasitchensis_period,0.0
+19,142,climatology_ocepinuscaribaea_period,0.30769232
+19,143,climatology_ocepinuskesiya_period,0.0
+19,144,climatology_ocepinusmerkusii_period,0.7692308
+19,141,climatology_ocepinusoocarpa_period,0.0
+19,140,climatology_ocepinuspatula_period,0.0
+19,139,climatology_ocepinusradiata_period,0.0
+19,138,climatology_ocepinustaeda_period,0.0
+19,149,climatology_ocetectonagrandis_period,0.9230769
+19,129,No hay datos
+19,22,No hay datos
+19,130,No hay datos
+19,23,No hay datos
+19,35,climatology_pr_annual_mean_of_annual_sums,1529.9811
+19,88,climatology_r100mm_annual_mean,0.0012812322
+19,89,No hay datos
+19,90,climatology_r200mm_annual_mean,0.0
+19,27,No hay datos
+19,91,climatology_r300mm_annual_mean,0.0
+19,87,No hay datos
+19,16,No hay datos
+19,132,No hay datos
+19,133,No hay datos
+19,131,No hay datos
+19,113,No hay datos
+19,114,No hay datos
+19,115,No hay datos
+19,116,No hay datos
+19,112,No hay datos
+19,86,No hay datos
+19,83,No hay datos
+19,84,No hay datos
+19,85,No hay datos
+19,39,climatology_rx1dayreturnlevel100_period,108.823044
+19,48,No hay datos
+19,49,No hay datos
+19,4,No hay datos
+19,38,climatology_rx1dayreturnlevel50_period,97.241005
+19,78,No hay datos
+19,75,No hay datos
+19,76,No hay datos
+19,77,No hay datos
+19,82,No hay datos
+19,79,No hay datos
+19,80,No hay datos
+19,81,No hay datos
+19,72,climatology_spei12_annual_mean,-0.025159955
+19,63,No hay datos
+19,64,No hay datos
+19,65,No hay datos
+19,73,climatology_spei24_annual_mean,-0.01302045
+19,68,climatology_spei24extremedroughtbcap_period,0.0012820513
+19,66,climatology_spei24moderatedroughtbcap_period,0.37564105
+19,67,climatology_spei24severedroughtbcap_period,0.080769226
+19,74,climatology_spei36_annual_mean,-0.013712589
+19,71,climatology_spei36extremedroughtbcap_period,0.0
+19,69,climatology_spei36moderatedroughtbcap_period,0.36153844
+19,70,climatology_spei36severedroughtbcap_period,0.032051284
+19,6,climatology_spei6_annual_mean,-0.0039576907
+19,62,climatology_spei6extremedroughtbcap_period,0.0
+19,61,climatology_spei6moderatedroughtbcap_period,0.63846165
+19,31,climatology_spei6severedroughtbcap_period,0.096153855
+19,2,No hay datos
+19,126,No hay datos
+19,128,No hay datos
+19,127,No hay datos
+19,32,climatology_tas_annual_mean_of_annual_means,27.367828
+19,134,climatology_taswarmestmonthmean_period,29.487547
+19,14,climatology_tc113hitap_hist_1986-2014_period,0.0
+19,15,climatology_tc137hitap_hist_1986-2014_period,0.0
+19,51,climatology_tc34hitap_hist_1986-2014_period,0.0
+19,52,climatology_tc50hitap_hist_1986-2014_period,0.0
+19,11,climatology_tc64hitap_hist_1986-2014_period,0.0
+19,12,climatology_tc83hitap_hist_1986-2014_period,0.0
+19,13,climatology_tc96hitap_hist_1986-2014_period,0.0
+19,30,No hay datos
+19,99,No hay datos
+19,136,climatology_tnn_annual_mean,15.046024
+19,137,climatology_tnn_annual_min,12.7877445
+19,53,No hay datos
+19,98,No hay datos
+19,95,No hay datos
+19,96,No hay datos
+19,97,No hay datos
+19,3,climatology_txx_annual_max,42.874886
+19,154,climatology_txx_annual_mean,40.60008
+19,153,No hay datos
+19,29,No hay datos
+19,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+19,10,climatology_windspeed20mps_annual_mean,0.0
+19,92,No hay datos
+19,94,No hay datos
+19,93,No hay datos
+19,33,climatology_windspeed_annual_mean_of_annual_means,1.5433685
+19,110,No hay datos
+19,111,No hay datos
+19,109,No hay datos
+19,108,No hay datos
+19,105,No hay datos
+19,106,No hay datos
+19,107,No hay datos
+20,125,climatology_cdsraavganndeltarel_period,47.505474
+20,155,climatology_cdsrperiodmean_period,3.1070604
+20,120,climatology_cfwi30_annual_mean,37.746475
+20,59,No hay datos
+20,121,climatology_cfwi45_annual_mean,21.06559
+20,34,No hay datos
+20,122,climatology_cfwi60_annual_mean,3.3732352
+20,60,No hay datos
+20,58,No hay datos
+20,56,climatology_cfwi95pbcdp_period,0.06414644
+20,57,No hay datos
+20,123,climatology_cfwimavgmdeltarel_period,34.12817
+20,117,climatology_cfwiperiodmax_period,55.577938
+20,25,climatology_cfwiperiodmean_period,7.124028
+20,124,climatology_cisimavgmdeltarel_period,27.58241
+20,119,climatology_cisiperiodmax_period,18.094482
+20,118,climatology_cisiperiodmean_period,2.4188085
+20,28,No hay datos
+20,102,No hay datos
+20,104,No hay datos
+20,103,No hay datos
+20,135,climatology_fd_annual_mean,0.0
+20,50,climatology_hd40_annual_mean,17.712852
+20,26,No hay datos
+20,100,No hay datos
+20,101,No hay datos
+20,148,climatology_oceacacia_period,0.3846154
+20,147,climatology_oceeucalyptuscamaldulensis_period,0.3846154
+20,145,climatology_oceeucalyptusglobulus_period,0.0
+20,146,climatology_oceeucalyptusgrandis_period,0.0
+20,150,climatology_ocepiceaabies_period,0.0
+20,151,climatology_ocepiceasitchensis_period,0.0
+20,142,climatology_ocepinuscaribaea_period,0.0
+20,143,climatology_ocepinuskesiya_period,0.0
+20,144,climatology_ocepinusmerkusii_period,0.3846154
+20,141,climatology_ocepinusoocarpa_period,0.0
+20,140,climatology_ocepinuspatula_period,0.0
+20,139,climatology_ocepinusradiata_period,0.0
+20,138,climatology_ocepinustaeda_period,0.0
+20,149,climatology_ocetectonagrandis_period,0.9230769
+20,129,climatology_praavganndelta_period,30.705605
+20,22,climatology_praavganndeltarel_period,22.956858
+20,130,climatology_praavgannplus1sd_period,0.0
+20,23,climatology_praavgannplus50mm_period,0.15384616
+20,35,climatology_pr_annual_mean_of_annual_sums,1560.6866
+20,88,climatology_r100mm_annual_mean,0.006406161
+20,89,No hay datos
+20,90,climatology_r200mm_annual_mean,0.0
+20,27,No hay datos
+20,91,climatology_r300mm_annual_mean,0.0
+20,87,No hay datos
+20,16,No hay datos
+20,132,climatology_rhsaavganndelta_period,-0.48387498
+20,133,climatology_rhsaavganndeltarel_period,-28.069826
+20,131,climatology_rhs_annual_mean_of_annual_means,70.79056
+20,113,No hay datos
+20,114,No hay datos
+20,115,No hay datos
+20,116,No hay datos
+20,112,No hay datos
+20,86,climatology_rx1dayfaep100_period,0.01277013
+20,83,No hay datos
+20,84,No hay datos
+20,85,climatology_rx1dayfaep50_period,0.025018286
+20,39,climatology_rx1dayreturnlevel100_period,112.813644
+20,48,No hay datos
+20,49,No hay datos
+20,4,No hay datos
+20,38,climatology_rx1dayreturnlevel50_period,100.97841
+20,78,climatology_rx5dayfaep100_period,0.014013787
+20,75,climatology_rx5dayfaep10_period,0.12519926
+20,76,climatology_rx5dayfaep20_period,0.0647514
+20,77,climatology_rx5dayfaep50_period,0.02708406
+20,82,climatology_rxmonthfaep100_period,0.020451035
+20,79,No hay datos
+20,80,No hay datos
+20,81,climatology_rxmonthfaep50_period,0.035083976
+20,72,climatology_spei12_annual_mean,0.09004652
+20,63,No hay datos
+20,64,No hay datos
+20,65,No hay datos
+20,73,climatology_spei24_annual_mean,0.12929358
+20,68,climatology_spei24extremedroughtbcap_period,0.014102567
+20,66,climatology_spei24moderatedroughtbcap_period,0.3346154
+20,67,climatology_spei24severedroughtbcap_period,0.08333334
+20,74,climatology_spei36_annual_mean,0.20695847
+20,71,climatology_spei36extremedroughtbcap_period,0.034615386
+20,69,climatology_spei36moderatedroughtbcap_period,0.30384615
+20,70,climatology_spei36severedroughtbcap_period,0.099999994
+20,6,climatology_spei6_annual_mean,0.034512922
+20,62,climatology_spei6extremedroughtbcap_period,0.010256411
+20,61,climatology_spei6moderatedroughtbcap_period,0.61153847
+20,31,climatology_spei6severedroughtbcap_period,0.18589744
+20,2,climatology_tasaavganndelta_period,0.8578756
+20,126,climatology_tasaavganndeltarel_period,308.44403
+20,128,climatology_tasaavgannplus1sd_period,1.0
+20,127,climatology_tasaavgannplus2deg_period,0.0
+20,32,climatology_tas_annual_mean_of_annual_means,28.225704
+20,134,climatology_taswarmestmonthmean_period,30.439243
+20,14,climatology_tc113hitap_rcp45_2010-2039_period,0.0
+20,15,climatology_tc137hitap_rcp45_2010-2039_period,0.0
+20,51,climatology_tc34hitap_rcp45_2010-2039_period,0.0
+20,52,climatology_tc50hitap_rcp45_2010-2039_period,0.0
+20,11,climatology_tc64hitap_rcp45_2010-2039_period,0.0
+20,12,climatology_tc83hitap_rcp45_2010-2039_period,0.0
+20,13,climatology_tc96hitap_rcp45_2010-2039_period,0.0
+20,30,No hay datos
+20,99,No hay datos
+20,136,climatology_tnn_annual_mean,15.842533
+20,137,climatology_tnn_annual_min,13.780926
+20,53,No hay datos
+20,98,No hay datos
+20,95,No hay datos
+20,96,No hay datos
+20,97,No hay datos
+20,3,climatology_txx_annual_max,44.095566
+20,154,climatology_txx_annual_mean,41.792744
+20,153,No hay datos
+20,29,No hay datos
+20,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+20,10,climatology_windspeed20mps_annual_mean,0.0
+20,92,No hay datos
+20,94,No hay datos
+20,93,No hay datos
+20,33,climatology_windspeed_annual_mean_of_annual_means,1.5753752
+20,110,No hay datos
+20,111,No hay datos
+20,109,No hay datos
+20,108,No hay datos
+20,105,No hay datos
+20,106,No hay datos
+20,107,No hay datos
+21,125,climatology_cdsraavganndeltarel_period,75.39075
+21,155,climatology_cdsrperiodmean_period,3.3507502
+21,120,climatology_cfwi30_annual_mean,40.174374
+21,59,No hay datos
+21,121,climatology_cfwi45_annual_mean,23.299284
+21,34,No hay datos
+21,122,climatology_cfwi60_annual_mean,4.31811
+21,60,No hay datos
+21,58,No hay datos
+21,56,climatology_cfwi95pbcdp_period,0.074167676
+21,57,No hay datos
+21,123,climatology_cfwimavgmdeltarel_period,52.05866
+21,117,climatology_cfwiperiodmax_period,56.09826
+21,25,climatology_cfwiperiodmean_period,7.546508
+21,124,climatology_cisimavgmdeltarel_period,46.751083
+21,119,climatology_cisiperiodmax_period,18.409668
+21,118,climatology_cisiperiodmean_period,2.5680165
+21,28,No hay datos
+21,102,No hay datos
+21,104,No hay datos
+21,103,No hay datos
+21,135,climatology_fd_annual_mean,0.0
+21,50,climatology_hd40_annual_mean,24.739735
+21,26,No hay datos
+21,100,No hay datos
+21,101,No hay datos
+21,148,climatology_oceacacia_period,0.1923077
+21,147,climatology_oceeucalyptuscamaldulensis_period,0.1923077
+21,145,climatology_oceeucalyptusglobulus_period,0.0
+21,146,climatology_oceeucalyptusgrandis_period,0.0
+21,150,climatology_ocepiceaabies_period,0.0
+21,151,climatology_ocepiceasitchensis_period,0.0
+21,142,climatology_ocepinuscaribaea_period,0.0
+21,143,climatology_ocepinuskesiya_period,0.0
+21,144,climatology_ocepinusmerkusii_period,0.1923077
+21,141,climatology_ocepinusoocarpa_period,0.0
+21,140,climatology_ocepinuspatula_period,0.0
+21,139,climatology_ocepinusradiata_period,0.0
+21,138,climatology_ocepinustaeda_period,0.0
+21,149,climatology_ocetectonagrandis_period,0.9230769
+21,129,climatology_praavganndelta_period,24.462257
+21,22,climatology_praavganndeltarel_period,17.913666
+21,130,climatology_praavgannplus1sd_period,0.0
+21,23,climatology_praavgannplus50mm_period,0.07692308
+21,35,climatology_pr_annual_mean_of_annual_sums,1554.4434
+21,88,climatology_r100mm_annual_mean,0.011540567
+21,89,No hay datos
+21,90,climatology_r200mm_annual_mean,0.0
+21,27,No hay datos
+21,91,climatology_r300mm_annual_mean,0.0
+21,87,No hay datos
+21,16,No hay datos
+21,132,climatology_rhsaavganndelta_period,-1.0540589
+21,133,climatology_rhsaavganndeltarel_period,-61.222553
+21,131,climatology_rhs_annual_mean_of_annual_means,70.220375
+21,113,No hay datos
+21,114,No hay datos
+21,115,No hay datos
+21,116,No hay datos
+21,112,No hay datos
+21,86,climatology_rx1dayfaep100_period,0.017339788
+21,83,No hay datos
+21,84,No hay datos
+21,85,climatology_rx1dayfaep50_period,0.03261523
+21,39,climatology_rx1dayreturnlevel100_period,118.45824
+21,48,No hay datos
+21,49,No hay datos
+21,4,No hay datos
+21,38,climatology_rx1dayreturnlevel50_period,105.83049
+21,78,climatology_rx5dayfaep100_period,0.014391761
+21,75,climatology_rx5dayfaep10_period,0.12718014
+21,76,climatology_rx5dayfaep20_period,0.066038564
+21,77,climatology_rx5dayfaep50_period,0.02774531
+21,82,climatology_rxmonthfaep100_period,0.021594865
+21,79,No hay datos
+21,80,No hay datos
+21,81,climatology_rxmonthfaep50_period,0.035946712
+21,72,climatology_spei12_annual_mean,-0.12770541
+21,63,No hay datos
+21,64,No hay datos
+21,65,No hay datos
+21,73,climatology_spei24_annual_mean,-0.1737554
+21,68,climatology_spei24extremedroughtbcap_period,0.020512821
+21,66,climatology_spei24moderatedroughtbcap_period,0.49102563
+21,67,climatology_spei24severedroughtbcap_period,0.18846154
+21,74,climatology_spei36_annual_mean,-0.24061772
+21,71,climatology_spei36extremedroughtbcap_period,0.060256414
+21,69,climatology_spei36moderatedroughtbcap_period,0.4525641
+21,70,climatology_spei36severedroughtbcap_period,0.21153846
+21,6,climatology_spei6_annual_mean,-0.12894768
+21,62,climatology_spei6extremedroughtbcap_period,0.017948719
+21,61,climatology_spei6moderatedroughtbcap_period,0.6884616
+21,31,climatology_spei6severedroughtbcap_period,0.2820513
+21,2,climatology_tasaavganndelta_period,1.3241264
+21,126,climatology_tasaavganndeltarel_period,476.4139
+21,128,climatology_tasaavgannplus1sd_period,1.0
+21,127,climatology_tasaavgannplus2deg_period,0.0
+21,32,climatology_tas_annual_mean_of_annual_means,28.691956
+21,134,climatology_taswarmestmonthmean_period,30.928928
+21,14,climatology_tc113hitap_rcp45_2020-2049_period,0.0
+21,15,climatology_tc137hitap_rcp45_2020-2049_period,0.0
+21,51,climatology_tc34hitap_rcp45_2020-2049_period,0.0
+21,52,climatology_tc50hitap_rcp45_2020-2049_period,0.0
+21,11,climatology_tc64hitap_rcp45_2020-2049_period,0.0
+21,12,climatology_tc83hitap_rcp45_2020-2049_period,0.0
+21,13,climatology_tc96hitap_rcp45_2020-2049_period,0.0
+21,30,No hay datos
+21,99,No hay datos
+21,136,climatology_tnn_annual_mean,16.39328
+21,137,climatology_tnn_annual_min,14.162276
+21,53,No hay datos
+21,98,No hay datos
+21,95,No hay datos
+21,96,No hay datos
+21,97,No hay datos
+21,3,climatology_txx_annual_max,44.311646
+21,154,climatology_txx_annual_mean,42.472336
+21,153,No hay datos
+21,29,No hay datos
+21,152,climatology_wetsnowliquidequiv_monthly_mean,0.0
+21,10,climatology_windspeed20mps_annual_mean,0.0
+21,92,No hay datos
+21,94,No hay datos
+21,93,No hay datos
+21,33,climatology_windspeed_annual_mean_of_annual_means,1.5945643
+21,110,No hay datos
+21,111,No hay datos
+21,109,No hay datos
+21,108,No hay datos
+21,105,No hay datos
+21,106,No hay datos
+21,107,No hay datos
